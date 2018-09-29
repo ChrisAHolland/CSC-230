@@ -2,7 +2,6 @@
  * CSC Spring 2018
  * 
  * Student name: Chris Holland
- * Student UVic ID: V00876844
  * Date of completed work: March 31, 2018
  *
  *
