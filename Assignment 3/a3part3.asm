@@ -2,7 +2,6 @@
 ; CSC 230: Spring 2018
 ;
 ; Student name: Chris Holland
-; Student ID: V00876844
 ; Date of completed work: March 23, 2018
 ;
 ; *******************************
